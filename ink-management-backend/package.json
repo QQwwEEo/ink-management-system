@@ -1,0 +1,1 @@
+{\n  "name": "ink-management-backend",\n  "version": "1.0.0",\n  "description": "Backend for ink management system",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "QQwwEEo",\n  "license": "ISC",\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.11.15"\n  }\n}
